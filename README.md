@@ -8,7 +8,7 @@
 
 ##  Pomoc:
 
-https://github.com/MineDrwal/DarkPVPv1.6/wiki/Pomoc
+https://github.com/MineDrwal/DarkPVPv1.7/wiki/Pomoc
 
 ***
 
